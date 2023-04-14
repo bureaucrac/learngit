@@ -1,2 +1,2 @@
 hello world, my friend! Hahaha!
-Here is the master branch.
+We are creating a new branch, which is also the master branch.
